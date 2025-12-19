@@ -1,5 +1,5 @@
 ﻿matplotlib==3.10.6
-mapclassify==0.4.3
+mapclassify
 GitPython==3.1.45
 numpy==2.3.5
 pandas==2.3.3
@@ -15,4 +15,5 @@ xarray==2025.10.1
 geopandas
 folium
 leafmap
+
 
